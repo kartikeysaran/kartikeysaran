@@ -1,13 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=kartikeysaran&color=ff69b4)
 ### Hello there 👋
+![](https://i.gifer.com/origin/9d/9d19daab419459b42473e81260c31ce4_w200.gif)
 # I am Kartikey Saran
 #### -🌱 A Full Stack Web and Android Dev'
+<img src= "https://i.pinimg.com/originals/eb/3c/9a/eb3c9a4f88dbbb5f67cc3998e77aef48.gif" width = "250" height = "250"/>
 ## Reach me
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 
-[![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikeysaran&count_private=true&show_icons=true&theme=radical)](https://github.com/kartikeysaran/github-readme-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikeysaran&count_private=true&show_icons=true&theme=radical)](https://github.com/kartikeysaran/github-readme-streak-stats)
+[![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikeysaran&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/kartikeysaran/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikeysaran&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/kartikeysaran/github-readme-streak-stats)
+
 
 
 
