@@ -3,7 +3,6 @@
 ![](https://i.gifer.com/origin/9d/9d19daab419459b42473e81260c31ce4_w200.gif)
 # I am Kartikey Saran
 #### -🌱 A Full Stack Web and Android Dev'
-<img src= "https://i.pinimg.com/originals/eb/3c/9a/eb3c9a4f88dbbb5f67cc3998e77aef48.gif" width = "250" height = "250"/>
 ## Reach me
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
