@@ -9,6 +9,8 @@
 
 [![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikeysaran&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/kartikeysaran/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikeysaran&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/kartikeysaran/github-readme-streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysaran&layout=compact&theme=highcontrast)](https://github.com/kartikeysaran/github-readme-stats)
 
 
 
