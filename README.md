@@ -1,7 +1,7 @@
 ### Hello there 👋
 ![](https://i.gifer.com/origin/9d/9d19daab419459b42473e81260c31ce4_w200.gif)
 # I am Kartikey Saran
-#### -🌱 Learning'
+#### 🌱
 ## Reach me
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
