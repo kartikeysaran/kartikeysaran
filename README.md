@@ -1,5 +1,5 @@
 ### Hello there 👋
-![]([https://i.gifer.com/origin/9d/9d19daab419459b42473e81260c31ce4_w200.gif](https://nebula-stag.s3.amazonaws.com/uploads/connect/image/72/connections.gif))
+![](https://nebula-stag.s3.amazonaws.com/uploads/connect/image/72/connections.gif)
 # I am Kartikey Saran
 #### -🌱 Learning'
 ## Reach me
